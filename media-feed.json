@@ -6,5 +6,6 @@
   { "type": "tweet", "url": "https://x.com/thedankoe/status/2012956603297964167", "handle": "@thedankoe", "text": "Extreme Focus", "date": "Jan 2026" },
   { "type": "article", "url": "https://himakhaitan.medium.com/bits-buckets-and-brilliance-how-hash-indexes-inspired-a-generation-of-databases-d1898629ebcc" },
   { "type": "article", "url": "https://observablehq.com/@galletti94/functional-blockchain" },
-  { "type": "youtube", "id": "0Zhj-KRkSZg", "title": "The Man Who Broke God of War in Half" }
+  { "type": "youtube", "id": "0Zhj-KRkSZg", "title": "The Man Who Broke God of War in Half" },
+  { "type": "article", "url": "https://pboyd.io/posts/screw-ups/"}
 ]
