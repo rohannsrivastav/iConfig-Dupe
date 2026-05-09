@@ -1,0 +1,10 @@
+name: Purge jsDelivr
+on:
+  push:
+    branches: [main]
+    paths: ['media-feed.json']
+jobs:
+  purge:
+    runs-on: ubuntu-latest
+    steps:
+      - run: curl https://purge.jsdelivr.net/gh/rohannsrivastav/iConfig-Dupe@main/media-feed.json
