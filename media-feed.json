@@ -1,14 +1,16 @@
 [
   { "type": "youtube", "id": "CamgBXjnSik", "title": "From the Poker Table to the Trading Floor" },
+  { "type": "youtube", "id": "0Zhj-KRkSZg", "title": "The Man Who Broke God of War in Half" },
+
+  { "type": "article", "url": "https://himakhaitan.medium.com/bits-buckets-and-brilliance-how-hash-indexes-inspired-a-generation-of-databases-d1898629ebcc", "title":"Bits, Buckets, and Brilliance" },
+  { "type": "article", "url": "https://observablehq.com/@galletti94/functional-blockchain", "title":"Functional Blockchain" },
+  { "type": "article", "url": "https://pboyd.io/posts/screw-ups", "title":"The day I wiped a production database table" },
+  { "type": "article", "url": "https://danielgross.com/agitrades", "title":"Questions of a Token Economy" },
+  { "type": "article", "url": "https://ludwigabap.bearblog.dev/on-becoming-competitive-when-joining-a-new-company", "title":"On becoming competitive when joining a new company" },
+  
   { "type": "tweet", "url": "https://x.com/amytam01/status/2023593365401636896", "handle": "@amytam01", "text": "The Cost of Staying", "date": "Feb 2026" },
   { "type": "tweet", "url": "https://x.com/RayDalio/status/2022788750388998543", "handle": "@RayDalio", "text": "It's Official: The World Order Has Broken Down", "date": "Feb 2026" },
   { "type": "tweet", "url": "https://x.com/thedankoe/status/2012956603297964167", "handle": "@thedankoe", "text": "Extreme Focus", "date": "Jan 2026" },
-  { "type": "article", "url": "https://himakhaitan.medium.com/bits-buckets-and-brilliance-how-hash-indexes-inspired-a-generation-of-databases-d1898629ebcc" },
-  { "type": "article", "url": "https://observablehq.com/@galletti94/functional-blockchain" },
-  { "type": "youtube", "id": "0Zhj-KRkSZg", "title": "The Man Who Broke God of War in Half" },
-  { "type": "article", "url": "https://pboyd.io/posts/screw-ups/"},
   { "type": "tweet", "url": "https://x.com/JayaGup10/status/2052870394093408558", "handle": "@JayaGup10", "text": "The next biggest moat in AI", "date": "May 2026" },
-  { "type": "article", "url": "https://ludwigabap.bearblog.dev/on-becoming-competitive-when-joining-a-new-company/" },
-  { "type": "article", "url": "https://danielgross.com/agitrades" },
   { "type": "tweet", "url": "https://x.com/pHequals7/status/2054969152331510264", "handle": "@pHequals7", "text": "India's inference needs are a ticking time bomb for our account deficit", "date": "May 2026" }
 ]
