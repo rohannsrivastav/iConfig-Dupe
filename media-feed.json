@@ -1,6 +1,7 @@
 [
   { "type": "youtube", "id": "CamgBXjnSik", "title": "From the Poker Table to the Trading Floor" },
   { "type": "youtube", "id": "0Zhj-KRkSZg", "title": "The Man Who Broke God of War in Half" },
+  { "type": "youtube", "id": "lI7tMxzSJ7w", "title": "The Story of C++" },
 
   { "type": "article", "url": "https://himakhaitan.medium.com/bits-buckets-and-brilliance-how-hash-indexes-inspired-a-generation-of-databases-d1898629ebcc", "title":"Bits, Buckets, and Brilliance" },
   { "type": "article", "url": "https://observablehq.com/@galletti94/functional-blockchain", "title":"Functional Blockchain" },
